@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cloud-62
 - 👀 I’m interested in Chinese art and CG
 - 💞️ I’m looking to collaborate on Blender addons.
-- 📫 How to reach me ...
+- 📫 How to reach me ... Discord CLOUD62#1459
 
 <!---
 cloud-62/cloud-62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
